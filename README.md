@@ -1,2 +1,2 @@
-# m02-g19
-repositorio grupo 18 por ayudante victoria
+# m02-g4
+repositorio grupo 4 por ayudante victoria
